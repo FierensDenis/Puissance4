@@ -2,8 +2,8 @@
 
 ---------------
 
-Projet de début d'année sur une durée de 2 semaines, introduction Javascript.  
-  
+Projet de début d'année sur une durée de 1 semaine, introduction Javascript, Jquery, HTML, CSS.
+
 `Démarrer le projet :`
 
 ```
