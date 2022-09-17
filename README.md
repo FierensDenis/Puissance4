@@ -12,3 +12,6 @@ Ouvrir l'index dans le navigateur
 
 Trouver un adversaire & HAVE FUN ! 🏆
 ```
+<p align="center">
+    <img align="center" src="Puissance4.gif" height="200px" alt="e-commerceGIF">
+</p>
